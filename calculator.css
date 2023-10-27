@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+:root {
+
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100dvh;
+    padding: 20px 100px;
+}
+header {
+    justify-content: center;
+    padding: 20px 20px;
+}
+.calculator {
+    width: 100%;
+    text-align: center;
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+
